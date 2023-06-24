@@ -1,2 +1,2 @@
-print("Hello modificacion");
+print("");
 
